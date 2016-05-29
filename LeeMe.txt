@@ -1,0 +1,11 @@
+Juan Bosque Romero
+Zhaoyan Ni
+
+Cambios: 
+Arreglar la funcion reset para que actualice el tablero cuando 
+empieza el juego.
+Arreglar el error: el segundo jugador no se puede hacer movimiento
+aleatorio en modo singleView.
+
+Error:
+El error: cambio de color durante un movimiento sigue existe
